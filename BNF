@@ -1,0 +1,5 @@
+<shell command>::= <command list>
+<command list>::= <elementary command> <pipe> { [one of & ; || && ] <pipe>} [&]
+<pipe>::= { | <command> }
+<command>::= <elementary command> (<command list>)
+<elementary command>::= <filename> {<arg>} [ < <filename>] [ [> or >>] <filename>]
