@@ -1,7 +1,9 @@
 
-## SHEll comamd line by Shestitko Alexandr
+## SHEll command line by Shestitko Alexandr
 
  **This is a small command interpreter.**
+ # Project build: make -f  makefile
+ # Run ownSHELL command line: ./shell
 
 ### MAIN
 *Consist an endless circle in which:*
