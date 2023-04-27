@@ -1,5 +1,5 @@
 
-##SHEll comamd line by Shestitko Alexandr
+## SHEll comamd line by Shestitko Alexandr
 
  **This is a small command interpreter.**
 
